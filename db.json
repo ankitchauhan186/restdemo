@@ -1,8 +1,12 @@
 {
     "posts": [
-        { "id": 1, "title": "Post 1", "comment": "Com 1" },
-        { "id": 2, "title": "Post 2", "comment": "Com 2" },
-        { "id": 3, "title": "Post 3", "comment": "Com 3" },
-        { "id": 4, "title": "Post 4", "comment": "Com 4" }
+        { "id": 1, "title": "Chest Exercise", "img": "https://i.pinimg.com/236x/5c/59/3d/5c593d22e0990a9ab26e978309c3d291--leg-workouts-for-men-chest-workouts.jpg" },
+        { "id": 2, "title": "Back Exercise", "img": "https://i.pinimg.com/474x/b7/4f/f2/b74ff259d6986fdcf79fcb779ec34780--pull-up-bar-back-exercises.jpg" },
+        { "id": 3, "title": "Biecep Exercise", "img": "https://i.pinimg.com/236x/58/82/93/58829370dafa953b9d4b028ddc8d6a90--curls-biceps.jpg" },
+        { "id": 4, "title": "tricep Exercise", "img": "https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/Q4wAAOSwPcVVuzde/$_2.JPG" },
+        { "id": 5, "title": "Shoulder Exercise", "img": "https://www.menshealth.com/sites/menshealth.com/files/media/MH_Static/2007/04/1175611021726/0705_poster4_200x200.jpg" },
+        { "id": 6, "title": "Thai Exercise", "img": "https://i.pinimg.com/736x/71/9d/1e/719d1e110297cdeddad4391d857702b4--back-workouts-workout-exercises.jpg" },
+        { "id": 7, "title": "Abbs Exercise", "img": "http://images.rodale.com/image/mh/0606_corkscrew_200x200.jpg" }
+
     ]
 }
